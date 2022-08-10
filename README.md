@@ -8,7 +8,7 @@
 
 - 🔭 Currently studying Computer Science at UFRGS.
 - 🌱 Studying C++
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 #
 
