@@ -6,7 +6,7 @@
 
 ## EN-US
 
-- 🔭 Currently studying Computer Science at UFRGS.
+- 🔭 Currently enrolled in Computer Science at UFRGS.
 - 🌱 Studying C++
 - 😄 Pronouns: he/him
 
