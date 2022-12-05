@@ -1,13 +1,13 @@
 ## PT-BR
 
 - 🔭 Atualmente estudando Ciências da Computação na UFRGS.
-- 🌱 Estudando C++
+- 🌱 Estudando Java/JavaScript
 - 😄 Pronomes: ele/dele
 
 ## EN-US
 
 - 🔭 Currently enrolled in Computer Science at UFRGS.
-- 🌱 Studying C++
+- 🌱 Studying Java/JavaScript
 - 😄 Pronouns: he/him
 
 #
