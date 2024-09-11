@@ -1,13 +1,13 @@
 ## PT-BR
 
 - 🔭 Atualmente estudando Ciências da Computação na UFRGS.
-- 🌱 Estudando Rust
+- 🌱 Estudando C#
 - 😄 Pronomes: ele/dele
 
 ## EN-US
 
 - 🔭 Currently enrolled in Computer Science at UFRGS.
-- 🌱 Studying Rust
+- 🌱 Studying C#
 - 😄 Pronouns: he/him
 
 #
