@@ -1,13 +1,11 @@
 ## PT-BR
 
-- 🔭 Atualmente estudando Ciências da Computação na UFRGS.
-- 🌱 Estudando C#
+- 🔭 Cientista da Computação pela UFRGS. Atualmente no mestrado aplicado a Computação de Alto Desempenho.
 - 😄 Pronomes: ele/dele
 
 ## EN-US
 
-- 🔭 Currently enrolled in Computer Science at UFRGS.
-- 🌱 Studying C#
+- 🔭 Computer Scientist from the UFRGS. Currently pursuing a master’s degree in High-Performance Computing.
 - 😄 Pronouns: he/him
 
 #
